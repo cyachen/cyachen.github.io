@@ -1,4 +1,4 @@
-<center><font size='70'>陈嘉曦</font></center>
+<center><font size='60'>陈嘉曦</font></center>
 
 <center>我目前是中国科学院自动化研究所，模式识别国家重点实验室的研一学生，导师是严冬明研究员</center>
 
