@@ -1,6 +1,7 @@
 <center><font size='60'>Jiaxi Chen</font></center>
 
-<center>I am currently a first year master student at NLPR,CASIA. My advisor is Prof.Dong-Min Yan</center>
+<center>I am currently a first year master student at NLPR,CASIA.</center>
+<center>My advisor is Prof.Dong-Min Yan</center><br><br>
 
 ## Education
 
@@ -12,6 +13,7 @@
 - B.S in Internet of Things
 - GPA: **3.77**/4.0; Top **5%**
 
+<br>
 
 ## Work Experience
 
@@ -21,6 +23,7 @@
 
 **2017.09 - 2018.03** Research Intern in Institute of Information Engineering,CAS
 
+<br>
 
 ## Awards
 
