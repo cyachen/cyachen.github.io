@@ -2,7 +2,7 @@
 
 <center>I am currently a first year master student at NLPR,CASIA. My advisor is Prof.Dong-Min Yan</center>
 
-# Education
+## Education
 
 **2021.09 - now** NPLR,Institute of Automation,CAS
 - M.D in Artificial Intelligence
@@ -13,7 +13,7 @@
 - GPA: **3.77**/4.0; Top **5%**
 
 
-# Work Experience
+## Work Experience
 
 **2020.08 - 2021.08** Research Intern in NLPR,Institute of Automation,CAS
 
@@ -22,7 +22,7 @@
 **2017.09 - 2018.03** Research Intern in Institute of Information Engineering,CAS
 
 
-# AWARDS
+## AWARDS
 
 - National Scholarship, 2017
 - Huawei Scholarship, 2016
