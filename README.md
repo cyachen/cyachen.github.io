@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Intro
 
-You can use the [editor on GitHub](https://github.com/cyachen/cyachen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a first year master student at Department of Artificial Intelligence, Chinese Academy of Sciences University. I'm now studying at NLPR, Institute of Automation, CAS. My advisor is Dong-ming Yan.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# CV
 
-### Markdown
+- [cv in English](https://cyachen.github.io/cv/cv)
+- [中文简历](https://cyachen.github.io/cv/cv_chinese)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Contact
 
-```markdown
-Syntax highlighted code block
+- email: ch2en@outlook.com
+- [github](https://github.com/cyachen)
 
-# Header 1
-## Header 2
-### Header 3
+# Research
+My research interests mainly lie in the area of Computer Vision and Deep Learning.
 
-- Bulleted
-- List
+# blog
 
-1. Numbered
-2. List
+## shell
+- [shell](https://cyachen.github.io/shell/2021-06-05-shell)
+- [date](https://cyachen.github.io/shell/2021-06-05-date)
+- [vim](https://cyachen.github.io/shell/2021-06-05-vim)
+- [git](https://cyachen.github.io/shell/2021-06-05-git)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyachen/cyachen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## notes
+- [hadoop](https://cyachen.github.io/notes/2021-06-05-hadoop_4ed)
+- [C++ primer](https://cyachen.github.io/notes/2021-06-05-c++_primer)
