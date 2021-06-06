@@ -1,6 +1,4 @@
---- 
-title: 陈嘉曦的博客 | Jiaxi Chen's blog
----
+# Jiaxi Chen
 
 ## Intro
 
