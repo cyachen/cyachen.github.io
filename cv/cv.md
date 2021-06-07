@@ -5,7 +5,7 @@
 
 ## Education
 
-**2021.09 - now** NPLR,Institute of Automation,CAS
+**2021.09 - now** NLPR,Institute of Automation,CAS
 - M.D in Artificial Intelligence
 - Computer Vision,Graphics track
 

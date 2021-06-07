@@ -2,7 +2,7 @@
 
 ## Intro
 
-I am currently a first year master student at Department of Artificial Intelligence, Chinese Academy of Sciences University. I'm now studying at NLPR, Institute of Automation, CAS. My advisor is PRof.Dong-ming Yan.
+I am currently a first year master student at Department of Artificial Intelligence, Chinese Academy of Sciences University. I'm now studying at NLPR, Institute of Automation, CAS. My advisor is Prof.Dong-ming Yan.
 
 ## CV
 
