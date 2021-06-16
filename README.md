@@ -6,7 +6,7 @@ I am currently a first year master student at Department of Artificial Intellige
 
 ## CV
 
-- [cv in English](https://cyachen.github.io/cv/cv)
+- [cv](https://cyachen.github.io/cv/cv)
 - [中文简历](https://cyachen.github.io/cv/cv_chinese)
 
 ## Contact
@@ -29,3 +29,4 @@ My research interests mainly lie in the area of Computer Vision and Deep Learnin
 - [hadoop](https://cyachen.github.io/notes/2021-06-05-hadoop_4ed)
 - [C++ primer](https://cyachen.github.io/notes/2021-06-05-c++_primer)
 - [resource in CV](https://cyachen.github.io/notes/2021-06-06-cv_res)
+- [python lib](https://cyachen.github.io/notes/2021-06-06-python)
