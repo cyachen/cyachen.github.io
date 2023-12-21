@@ -141,7 +141,7 @@ sections:
           organization_url: 
           title: Distinguished Student (Top 1%)
           url: ''
-        - date_start: '2016'
+        - date_start: '2016-07'
           title: Huawei Scholarship
           organization: Huawei
         - date_start: '2016'
