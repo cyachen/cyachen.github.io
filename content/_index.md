@@ -122,29 +122,29 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2022-07'
+          date_start: '2022-07-01'
           description: ''
           # icon: coursera
           organization: University of Chinese Academy of Sciences
           # organization_url: https://www.coursera.org
           title: Merit Student
           url: ''
-        - date_start: '2017-10'
+        - date_start: '2017-10-01'
           organization: Beijing Institute of Technology
           title: National Scholarship (Top 1%)
         - certificate_url: 
           date_end: ''
-          date_start: '2017-10'
+          date_start: '2017-10-01'
           description: ''
           icon: 
           organization: Beijing Institute of Technology
           organization_url: 
           title: Distinguished Student (Top 1%)
           url: ''
-        - date_start: '2016-07'
+        - date_start: '2016-07-01'
           title: Huawei Scholarship
           organization: Huawei
-        - date_start: '2016-09'
+        - date_start: '2016-09-01'
           organization: Beijing Institute of Technology
           title: Merit Student (Top 10%)
     design:
