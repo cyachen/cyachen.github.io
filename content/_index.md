@@ -81,8 +81,8 @@ sections:
           company_url: ''
           # company_logo: org-gc
           location: Beijing, China
-          date_start: '2021-9-1'
-          date_end: '2022-3-1'
+          date_start: '2021-09-01'
+          date_end: '2022-03-01'
           # description: |2-
           #     Responsibilities include:
 
@@ -94,16 +94,16 @@ sections:
           company_url: ''
           # company_logo: org-x
           location: Beijing, China
-          date_start: '2020-8-1'
-          date_end: '2021-8-1'
+          date_start: '2020-08-01'
+          date_end: '2021-08-01'
           description: Mentored by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/dong-ming-yans-homepage).
         - title: Server Development Engineer
           company: Qihoo 360
           company_url: ''
           # company_logo: org-x
           location: Beijing, China
-          date_start: '2019-9-1'
-          date_end: '2018-7-1'
+          date_start: '2019-09-01'
+          date_end: '2018-07-01'
           description: 
     design:
       columns: '2'
