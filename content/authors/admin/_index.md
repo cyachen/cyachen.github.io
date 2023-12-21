@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ch2en@outlook.com'
+    link: ch2en@outlook.com
   - icon: github
     icon_pack: fab
     link: https://github.com/cyachen
@@ -67,7 +67,7 @@ social:
 highlight_name: true
 ---
 
-I am currently a third-year M.S. student in the Graduate School of Artificial Intelligence, the University of Chinese Academy of Sciences, working with [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/dong-ming-yans-homepage). Before that, I got my B.S. degree from Beijing Institute of Technology, China in 2018.
+I am currently a third-year M.S. student in the Graduate School of Artificial Intelligence, the University of Chinese Academy of Sciences, advised by [Prof. Dong-Ming Yan](https://sites.google.com/site/yandongming/dong-ming-yans-homepage). Before that, I got my B.S. degree from Beijing Institute of Technology, China in 2018.
 
 My interests lie in Computer Graphics, Goemetry Processing and Computer vision.
 {style="text-align: justify;"}
