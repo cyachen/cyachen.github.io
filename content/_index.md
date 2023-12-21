@@ -144,7 +144,7 @@ sections:
         - date_start: '2016-07'
           title: Huawei Scholarship
           organization: Huawei
-        - date_start: '2016'
+        - date_start: '2016-09'
           organization: Beijing Institute of Technology
           title: Merit Student (Top 10%)
     design:
