@@ -129,7 +129,7 @@ sections:
           # organization_url: https://www.coursera.org
           title: Merit Student
           url: ''
-        - date_start: '2017'
+        - date_start: '2017-10'
           organization: Beijing Institute of Technology
           title: National Scholarship (Top 1%)
         - certificate_url: 
