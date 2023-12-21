@@ -51,6 +51,7 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-
@@ -63,7 +64,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      view: card
   - block: experience
     id: experience
     content:
