@@ -3,7 +3,7 @@
 title: Jiaxi Chen
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Jiaxi
@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: ch2en@outlook.com
+    link: 'mailto:ch2en@outlook.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/cyachen
