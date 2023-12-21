@@ -104,8 +104,8 @@ sections:
           company_url: ''
           # company_logo: org-x
           location: Beijing, China
-          date_start: '2019-09-01'
-          date_end: '2018-07-01'
+          date_start: '2018-07-01'
+          date_end: '2019-09-01'
           description: 
     design:
       columns: '2'
